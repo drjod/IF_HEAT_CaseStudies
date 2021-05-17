@@ -1,0 +1,3929 @@
+Interface time step: 0 - 2030-07-01 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 650 / 50000
+	PCS error DOF[ 0 ]: 738570 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 840 / 50000
+	PCS error DOF[ 0 ]: 54 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 1.04774e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 47 / 50000
+	PCS error DOF[ 0 ]: 1.42677e-11 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 613 / 50000
+	PCS error DOF[ 0 ]: 737160 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 602 / 50000
+	PCS error DOF[ 0 ]: 54 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 2.2701e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 66 / 50000
+	PCS error DOF[ 0 ]: 4.47358e-11 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 599 / 50000
+	PCS error DOF[ 0 ]: 737160 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 593 / 50000
+	PCS error DOF[ 0 ]: 54 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 5 / 50000
+	PCS error DOF[ 0 ]: 1.68802e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 41 / 50000
+	PCS error DOF[ 0 ]: 3.62661e-11 
+
+Interface time step: 1 - 2030-07-02 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 50001 / 50000
+WARNING ExecuteLinearSolver() - Maximum iteration number reached
+	PCS error DOF[ 0 ]: 0 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 50001 / 50000
+WARNING ExecuteLinearSolver() - Maximum iteration number reached
+	PCS error DOF[ 0 ]: 0 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 50001 / 50000
+WARNING ExecuteLinearSolver() - Maximum iteration number reached
+	PCS error DOF[ 0 ]: 0 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+Interface time step: 2 - 2030-07-03 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 24 / 50000
+	PCS error DOF[ 0 ]: 5.66361e-08 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 599 / 50000
+	PCS error DOF[ 0 ]: 19.6372 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 3 / 50000
+	PCS error DOF[ 0 ]: 6.98492e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 29 / 50000
+	PCS error DOF[ 0 ]: 2.82512e-11 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 24 / 50000
+	PCS error DOF[ 0 ]: 5.66361e-08 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 599 / 50000
+	PCS error DOF[ 0 ]: 19.6372 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 3 / 50000
+	PCS error DOF[ 0 ]: 6.98492e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 29 / 50000
+	PCS error DOF[ 0 ]: 2.82512e-11 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 24 / 50000
+	PCS error DOF[ 0 ]: 5.66361e-08 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 599 / 50000
+	PCS error DOF[ 0 ]: 19.6372 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 3 / 50000
+	PCS error DOF[ 0 ]: 6.98492e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 29 / 50000
+	PCS error DOF[ 0 ]: 2.82512e-11 
+
+Interface time step: 3 - 2030-07-04 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 26 / 50000
+	PCS error DOF[ 0 ]: 5.76838e-08 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 580 / 50000
+	PCS error DOF[ 0 ]: 14.3345 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 3 / 50000
+	PCS error DOF[ 0 ]: 7.85803e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 32 / 50000
+	PCS error DOF[ 0 ]: 2.96723e-11 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 26 / 50000
+	PCS error DOF[ 0 ]: 5.76838e-08 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 551 / 50000
+	PCS error DOF[ 0 ]: 14.3345 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 3 / 50000
+	PCS error DOF[ 0 ]: 7.85803e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 32 / 50000
+	PCS error DOF[ 0 ]: 2.96723e-11 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 26 / 50000
+	PCS error DOF[ 0 ]: 5.76838e-08 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 551 / 50000
+	PCS error DOF[ 0 ]: 14.3345 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 3 / 50000
+	PCS error DOF[ 0 ]: 7.85803e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 32 / 50000
+	PCS error DOF[ 0 ]: 2.96723e-11 
+
+Interface time step: 4 - 2030-07-05 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 26 / 50000
+	PCS error DOF[ 0 ]: 5.2838e-08 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 568 / 50000
+	PCS error DOF[ 0 ]: 11.7526 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 3 / 50000
+	PCS error DOF[ 0 ]: 9.31323e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 26 / 50000
+	PCS error DOF[ 0 ]: 2.9388e-11 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 26 / 50000
+	PCS error DOF[ 0 ]: 5.2838e-08 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 568 / 50000
+	PCS error DOF[ 0 ]: 11.7526 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 3 / 50000
+	PCS error DOF[ 0 ]: 9.31323e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 26 / 50000
+	PCS error DOF[ 0 ]: 2.9388e-11 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 26 / 50000
+	PCS error DOF[ 0 ]: 5.2838e-08 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 532 / 50000
+	PCS error DOF[ 0 ]: 11.7526 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 3 / 50000
+	PCS error DOF[ 0 ]: 9.31323e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 36 / 50000
+	PCS error DOF[ 0 ]: 2.94449e-11 
+
+Interface time step: 5 - 2030-07-06 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 28 / 50000
+	PCS error DOF[ 0 ]: 5.33619e-08 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 575 / 50000
+	PCS error DOF[ 0 ]: 10.1499 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 3 / 50000
+	PCS error DOF[ 0 ]: 9.31323e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 25 / 50000
+	PCS error DOF[ 0 ]: 5.95151e-11 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 28 / 50000
+	PCS error DOF[ 0 ]: 5.33619e-08 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 575 / 50000
+	PCS error DOF[ 0 ]: 10.1499 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 3 / 50000
+	PCS error DOF[ 0 ]: 9.31323e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 25 / 50000
+	PCS error DOF[ 0 ]: 5.95151e-11 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 28 / 50000
+	PCS error DOF[ 0 ]: 5.33619e-08 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 575 / 50000
+	PCS error DOF[ 0 ]: 10.1499 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 3 / 50000
+	PCS error DOF[ 0 ]: 9.31323e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 25 / 50000
+	PCS error DOF[ 0 ]: 5.95151e-11 
+
+Interface time step: 6 - 2030-07-07 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 27 / 50000
+	PCS error DOF[ 0 ]: 5.4526e-08 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 584 / 50000
+	PCS error DOF[ 0 ]: 9.01457 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 1.86265e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 28 / 50000
+	PCS error DOF[ 0 ]: 1.01409e-10 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 27 / 50000
+	PCS error DOF[ 0 ]: 5.4526e-08 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 595 / 50000
+	PCS error DOF[ 0 ]: 9.01457 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 1.86265e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 26 / 50000
+	PCS error DOF[ 0 ]: 1.01409e-10 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 27 / 50000
+	PCS error DOF[ 0 ]: 5.4526e-08 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 595 / 50000
+	PCS error DOF[ 0 ]: 9.01457 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 1.86265e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 26 / 50000
+	PCS error DOF[ 0 ]: 1.01409e-10 
+
+Interface time step: 7 - 2030-07-08 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 27 / 50000
+	PCS error DOF[ 0 ]: 5.05825e-08 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 575 / 50000
+	PCS error DOF[ 0 ]: 8.25206 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 1.68802e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 29 / 50000
+	PCS error DOF[ 0 ]: 1.00499e-10 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 27 / 50000
+	PCS error DOF[ 0 ]: 5.05825e-08 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 583 / 50000
+	PCS error DOF[ 0 ]: 8.25206 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 1.68802e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 32 / 50000
+	PCS error DOF[ 0 ]: 1.00329e-10 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 27 / 50000
+	PCS error DOF[ 0 ]: 5.05825e-08 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 583 / 50000
+	PCS error DOF[ 0 ]: 8.25206 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 1.68802e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 32 / 50000
+	PCS error DOF[ 0 ]: 1.00329e-10 
+
+Interface time step: 8 - 2030-07-09 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 28 / 50000
+	PCS error DOF[ 0 ]: 5.05534e-08 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 606 / 50000
+	PCS error DOF[ 0 ]: 7.55521 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 1.97906e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 25 / 50000
+	PCS error DOF[ 0 ]: 5.92877e-11 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 28 / 50000
+	PCS error DOF[ 0 ]: 5.05534e-08 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 605 / 50000
+	PCS error DOF[ 0 ]: 7.55521 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 1.97906e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 29 / 50000
+	PCS error DOF[ 0 ]: 5.95719e-11 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 28 / 50000
+	PCS error DOF[ 0 ]: 5.05534e-08 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 605 / 50000
+	PCS error DOF[ 0 ]: 7.55521 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 1.97906e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 29 / 50000
+	PCS error DOF[ 0 ]: 5.95719e-11 
+
+Interface time step: 9 - 2030-07-10 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 27 / 50000
+	PCS error DOF[ 0 ]: 5.11645e-08 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 608 / 50000
+	PCS error DOF[ 0 ]: 7.00804 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 1.74623e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 25 / 50000
+	PCS error DOF[ 0 ]: 6.11067e-11 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 27 / 50000
+	PCS error DOF[ 0 ]: 5.11645e-08 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 608 / 50000
+	PCS error DOF[ 0 ]: 7.00804 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 1.74623e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 25 / 50000
+	PCS error DOF[ 0 ]: 6.11067e-11 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 27 / 50000
+	PCS error DOF[ 0 ]: 5.11645e-08 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 558 / 50000
+	PCS error DOF[ 0 ]: 7.00804 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 1.74623e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 24 / 50000
+	PCS error DOF[ 0 ]: 6.05951e-11 
+
+Interface time step: 10 - 2030-07-11 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 411 / 50000
+	PCS error DOF[ 0 ]: 17600.6 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 997 / 50000
+	PCS error DOF[ 0 ]: 17 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 1 / 50000
+	PCS error DOF[ 0 ]: 3.0559e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 25 / 50000
+	PCS error DOF[ 0 ]: 6.87805e-12 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 442 / 50000
+	PCS error DOF[ 0 ]: 15683.7 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 877 / 50000
+	PCS error DOF[ 0 ]: 31.1423 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 2.32831e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 79 / 50000
+	PCS error DOF[ 0 ]: 3.1207e-11 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 405 / 50000
+	PCS error DOF[ 0 ]: 15560.4 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 885 / 50000
+	PCS error DOF[ 0 ]: 32.0579 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 14 / 50000
+	PCS error DOF[ 0 ]: 1.21276e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 151 / 50000
+	PCS error DOF[ 0 ]: 9.61222e-11 
+
+Iteration: 3
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 417 / 50000
+	PCS error DOF[ 0 ]: 15553 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 904 / 50000
+	PCS error DOF[ 0 ]: 32.1131 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 2 / 50000
+	PCS error DOF[ 0 ]: 2.32831e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 28 / 50000
+	PCS error DOF[ 0 ]: 7.27596e-12 
+
+Interface time step: 11 - 2030-07-12 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 344 / 50000
+	PCS error DOF[ 0 ]: 0.444463 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 937 / 50000
+	PCS error DOF[ 0 ]: 12.422 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 2.91038e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 69 / 50000
+	PCS error DOF[ 0 ]: 3.39355e-11 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 394 / 50000
+	PCS error DOF[ 0 ]: 668.968 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 1028 / 50000
+	PCS error DOF[ 0 ]: 12.9966 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 3.72529e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 80 / 50000
+	PCS error DOF[ 0 ]: 2.9047e-11 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 389 / 50000
+	PCS error DOF[ 0 ]: 726.369 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 1128 / 50000
+	PCS error DOF[ 0 ]: 13.0474 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 17 / 50000
+	PCS error DOF[ 0 ]: 2.93658e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 117 / 50000
+	PCS error DOF[ 0 ]: 1.46713e-10 
+
+Iteration: 3
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 366 / 50000
+	PCS error DOF[ 0 ]: 731.283 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 1011 / 50000
+	PCS error DOF[ 0 ]: 13.0517 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 1 / 50000
+	PCS error DOF[ 0 ]: 2.91038e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 29 / 50000
+	PCS error DOF[ 0 ]: 6.42331e-12 
+
+Interface time step: 12 - 2030-07-13 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 284 / 50000
+	PCS error DOF[ 0 ]: 0.420721 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 1015 / 50000
+	PCS error DOF[ 0 ]: 11.287 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 1 / 50000
+	PCS error DOF[ 0 ]: 2.91038e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 20 / 50000
+	PCS error DOF[ 0 ]: 2.6148e-12 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 376 / 50000
+	PCS error DOF[ 0 ]: 1056.15 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 1071 / 50000
+	PCS error DOF[ 0 ]: 12.0848 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 18 / 50000
+	PCS error DOF[ 0 ]: 2.60625e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 118 / 50000
+	PCS error DOF[ 0 ]: 1.15904e-10 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 407 / 50000
+	PCS error DOF[ 0 ]: 1155.68 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 1128 / 50000
+	PCS error DOF[ 0 ]: 12.1583 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 1.33878e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 62 / 50000
+	PCS error DOF[ 0 ]: 1.22213e-11 
+
+Iteration: 3
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 364 / 50000
+	PCS error DOF[ 0 ]: 1164.91 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 1046 / 50000
+	PCS error DOF[ 0 ]: 12.1651 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 1.57161e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 39 / 50000
+	PCS error DOF[ 0 ]: 6.82121e-12 
+
+Interface time step: 13 - 2030-07-14 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 320 / 50000
+	PCS error DOF[ 0 ]: 0.854896 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 1061 / 50000
+	PCS error DOF[ 0 ]: 10.6316 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 2 / 50000
+	PCS error DOF[ 0 ]: 2.32831e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 14 / 50000
+	PCS error DOF[ 0 ]: 1.98952e-12 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 368 / 50000
+	PCS error DOF[ 0 ]: 1269.62 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 1056 / 50000
+	PCS error DOF[ 0 ]: 11.4396 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 15 / 50000
+	PCS error DOF[ 0 ]: 1.41968e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 133 / 50000
+	PCS error DOF[ 0 ]: 3.76303e-11 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 396 / 50000
+	PCS error DOF[ 0 ]: 1378.24 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 1021 / 50000
+	PCS error DOF[ 0 ]: 11.5065 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 9.31323e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 59 / 50000
+	PCS error DOF[ 0 ]: 5.96856e-12 
+
+Iteration: 3
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 377 / 50000
+	PCS error DOF[ 0 ]: 1387.34 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 1084 / 50000
+	PCS error DOF[ 0 ]: 11.5121 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 14 / 50000
+	PCS error DOF[ 0 ]: 1.35915e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 99 / 50000
+	PCS error DOF[ 0 ]: 2.11458e-11 
+
+Interface time step: 14 - 2030-07-15 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 326 / 50000
+	PCS error DOF[ 0 ]: 0.762247 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 1275 / 50000
+	PCS error DOF[ 0 ]: 8.80294 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 2.03727e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 63 / 50000
+	PCS error DOF[ 0 ]: 5.96856e-12 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 397 / 50000
+	PCS error DOF[ 0 ]: 14277.4 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 18 / 50000
+	PCS error DOF[ 0 ]: 0.0623207 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 17 / 50000
+	PCS error DOF[ 0 ]: 1.0652e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 5 / 50000
+	PCS error DOF[ 0 ]: 2.76657e-10 
+
+Interface time step: 15 - 2030-07-16 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 416 / 50000
+	PCS error DOF[ 0 ]: 4559.1 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 560 / 50000
+	PCS error DOF[ 0 ]: 32.2459 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 5 / 50000
+	PCS error DOF[ 0 ]: 3.0268e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 87 / 50000
+	PCS error DOF[ 0 ]: 4.68958e-11 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 407 / 50000
+	PCS error DOF[ 0 ]: 5803.21 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 698 / 50000
+	PCS error DOF[ 0 ]: 32.2459 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 19 / 50000
+	PCS error DOF[ 0 ]: 2.75264e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 119 / 50000
+	PCS error DOF[ 0 ]: 6.70184e-10 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 416 / 50000
+	PCS error DOF[ 0 ]: 5879.36 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 620 / 50000
+	PCS error DOF[ 0 ]: 32.2459 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 1 / 50000
+	PCS error DOF[ 0 ]: 3.49246e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 19 / 50000
+	PCS error DOF[ 0 ]: 6.48015e-12 
+
+Iteration: 3
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 406 / 50000
+	PCS error DOF[ 0 ]: 5883.66 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 960 / 50000
+	PCS error DOF[ 0 ]: 32.2459 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 1 / 50000
+	PCS error DOF[ 0 ]: 2.32831e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 19 / 50000
+	PCS error DOF[ 0 ]: 9.26548e-12 
+
+Interface time step: 16 - 2030-07-17 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 291 / 50000
+	PCS error DOF[ 0 ]: 0.241522 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 782 / 50000
+	PCS error DOF[ 0 ]: 13.0934 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 2 / 50000
+	PCS error DOF[ 0 ]: 1.74623e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 14 / 50000
+	PCS error DOF[ 0 ]: 6.0254e-12 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 383 / 50000
+	PCS error DOF[ 0 ]: 352.779 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 739 / 50000
+	PCS error DOF[ 0 ]: 13.5133 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 3 / 50000
+	PCS error DOF[ 0 ]: 1.68802e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 28 / 50000
+	PCS error DOF[ 0 ]: 1.13118e-11 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 364 / 50000
+	PCS error DOF[ 0 ]: 364.561 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 897 / 50000
+	PCS error DOF[ 0 ]: 13.5268 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 8 / 50000
+	PCS error DOF[ 0 ]: 1.30967e-08 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 64 / 50000
+	PCS error DOF[ 0 ]: 6.35509e-11 
+
+Interface time step: 17 - 2030-07-18 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 320 / 50000
+	PCS error DOF[ 0 ]: 0.376497 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 724 / 50000
+	PCS error DOF[ 0 ]: 10.4756 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 18 / 50000
+	PCS error DOF[ 0 ]: 3.2055e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 70 / 50000
+	PCS error DOF[ 0 ]: 2.13674e-10 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 363 / 50000
+	PCS error DOF[ 0 ]: 206.772 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 833 / 50000
+	PCS error DOF[ 0 ]: 10.7344 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 13 / 50000
+	PCS error DOF[ 0 ]: 7.53207e-08 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 53 / 50000
+	PCS error DOF[ 0 ]: 1.01238e-10 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 375 / 50000
+	PCS error DOF[ 0 ]: 207.857 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 596 / 50000
+	PCS error DOF[ 0 ]: 10.7358 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 3.14321e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 38 / 50000
+	PCS error DOF[ 0 ]: 3.33102e-11 
+
+Interface time step: 18 - 2030-07-19 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 285 / 50000
+	PCS error DOF[ 0 ]: 0.00494554 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 381 / 50000
+	PCS error DOF[ 0 ]: 9.20024 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 2.61934e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 33 / 50000
+	PCS error DOF[ 0 ]: 3.82556e-11 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 339 / 50000
+	PCS error DOF[ 0 ]: 28.3467 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 851 / 50000
+	PCS error DOF[ 0 ]: 9.23254 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 3 / 50000
+	PCS error DOF[ 0 ]: 9.8953e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 25 / 50000
+	PCS error DOF[ 0 ]: 1.7792e-11 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 346 / 50000
+	PCS error DOF[ 0 ]: 27.8536 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 808 / 50000
+	PCS error DOF[ 0 ]: 9.23198 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 2 / 50000
+	PCS error DOF[ 0 ]: 2.32831e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 16 / 50000
+	PCS error DOF[ 0 ]: 8.86757e-12 
+
+Interface time step: 19 - 2030-07-20 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 260 / 50000
+	PCS error DOF[ 0 ]: 0.00860831 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 679 / 50000
+	PCS error DOF[ 0 ]: 8.21779 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 2.15368e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 23 / 50000
+	PCS error DOF[ 0 ]: 1.36993e-11 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 356 / 50000
+	PCS error DOF[ 0 ]: 113.421 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 662 / 50000
+	PCS error DOF[ 0 ]: 8.10027 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 12 / 50000
+	PCS error DOF[ 0 ]: 7.43312e-08 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 58 / 50000
+	PCS error DOF[ 0 ]: 9.37348e-11 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 346 / 50000
+	PCS error DOF[ 0 ]: 109.928 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 678 / 50000
+	PCS error DOF[ 0 ]: 8.1039 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 18 / 50000
+	PCS error DOF[ 0 ]: 1.34649e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 50 / 50000
+	PCS error DOF[ 0 ]: 1.04592e-10 
+
+Interface time step: 20 - 2030-07-21 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 285 / 50000
+	PCS error DOF[ 0 ]: 0.107115 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 706 / 50000
+	PCS error DOF[ 0 ]: 7.44533 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 2 / 50000
+	PCS error DOF[ 0 ]: 1.74623e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 16 / 50000
+	PCS error DOF[ 0 ]: 9.83391e-12 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 365 / 50000
+	PCS error DOF[ 0 ]: 192.38 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 410 / 50000
+	PCS error DOF[ 0 ]: 7.25149 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 13 / 50000
+	PCS error DOF[ 0 ]: 1.45694e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 43 / 50000
+	PCS error DOF[ 0 ]: 3.76303e-11 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 351 / 50000
+	PCS error DOF[ 0 ]: 185.411 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 691 / 50000
+	PCS error DOF[ 0 ]: 7.25856 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 1 / 50000
+	PCS error DOF[ 0 ]: 2.91038e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 20 / 50000
+	PCS error DOF[ 0 ]: 1.31877e-11 
+
+Interface time step: 21 - 2030-07-22 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 281 / 50000
+	PCS error DOF[ 0 ]: 0.252238 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 725 / 50000
+	PCS error DOF[ 0 ]: 6.77735 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 1 / 50000
+	PCS error DOF[ 0 ]: 2.91038e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 18 / 50000
+	PCS error DOF[ 0 ]: 1.10276e-11 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 380 / 50000
+	PCS error DOF[ 0 ]: 219.023 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 731 / 50000
+	PCS error DOF[ 0 ]: 6.55588 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 2.09548e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 43 / 50000
+	PCS error DOF[ 0 ]: 3.63229e-11 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 352 / 50000
+	PCS error DOF[ 0 ]: 211.01 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 406 / 50000
+	PCS error DOF[ 0 ]: 6.56404 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 18 / 50000
+	PCS error DOF[ 0 ]: 1.74681e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 50 / 50000
+	PCS error DOF[ 0 ]: 1.10788e-10 
+
+Interface time step: 22 - 2030-07-23 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 319 / 50000
+	PCS error DOF[ 0 ]: 0.293857 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 513 / 50000
+	PCS error DOF[ 0 ]: 6.20404 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 18 / 50000
+	PCS error DOF[ 0 ]: 3.84287e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 75 / 50000
+	PCS error DOF[ 0 ]: 8.41283e-11 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 361 / 50000
+	PCS error DOF[ 0 ]: 214.167 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 736 / 50000
+	PCS error DOF[ 0 ]: 5.99868 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 3 / 50000
+	PCS error DOF[ 0 ]: 1.10595e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 19 / 50000
+	PCS error DOF[ 0 ]: 1.42109e-11 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 359 / 50000
+	PCS error DOF[ 0 ]: 206.826 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 719 / 50000
+	PCS error DOF[ 0 ]: 6.00577 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 1 / 50000
+	PCS error DOF[ 0 ]: 2.61934e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 20 / 50000
+	PCS error DOF[ 0 ]: 1.27329e-11 
+
+Interface time step: 23 - 2030-07-24 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 327 / 50000
+	PCS error DOF[ 0 ]: 0.252637 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 540 / 50000
+	PCS error DOF[ 0 ]: 5.71341 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 2.44472e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 38 / 50000
+	PCS error DOF[ 0 ]: 3.72324e-11 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 352 / 50000
+	PCS error DOF[ 0 ]: 194.423 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 623 / 50000
+	PCS error DOF[ 0 ]: 5.53373 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 3 / 50000
+	PCS error DOF[ 0 ]: 1.33878e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 19 / 50000
+	PCS error DOF[ 0 ]: 1.84741e-11 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 338 / 50000
+	PCS error DOF[ 0 ]: 188.434 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 701 / 50000
+	PCS error DOF[ 0 ]: 5.5393 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 1 / 50000
+	PCS error DOF[ 0 ]: 2.91038e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 17 / 50000
+	PCS error DOF[ 0 ]: 1.13687e-11 
+
+Interface time step: 24 - 2030-07-25 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 290 / 50000
+	PCS error DOF[ 0 ]: 0.185372 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 755 / 50000
+	PCS error DOF[ 0 ]: 5.30512 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 3 / 50000
+	PCS error DOF[ 0 ]: 1.5134e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 16 / 50000
+	PCS error DOF[ 0 ]: 1.65983e-11 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 355 / 50000
+	PCS error DOF[ 0 ]: 169.683 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 634 / 50000
+	PCS error DOF[ 0 ]: 5.15214 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 13 / 50000
+	PCS error DOF[ 0 ]: 1.14058e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 39 / 50000
+	PCS error DOF[ 0 ]: 4.82032e-11 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 375 / 50000
+	PCS error DOF[ 0 ]: 165.099 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 696 / 50000
+	PCS error DOF[ 0 ]: 5.15629 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 2.96859e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 26 / 50000
+	PCS error DOF[ 0 ]: 2.79101e-11 
+
+Interface time step: 25 - 2030-07-26 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 412 / 50000
+	PCS error DOF[ 0 ]: 12894.6 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 713 / 50000
+	PCS error DOF[ 0 ]: 6.90012 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 1 / 50000
+	PCS error DOF[ 0 ]: 2.32831e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 19 / 50000
+	PCS error DOF[ 0 ]: 1.03455e-11 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 415 / 50000
+	PCS error DOF[ 0 ]: 11860.5 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 723 / 50000
+	PCS error DOF[ 0 ]: 28.4326 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 5 / 50000
+	PCS error DOF[ 0 ]: 3.72529e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 42 / 50000
+	PCS error DOF[ 0 ]: 2.78533e-11 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 417 / 50000
+	PCS error DOF[ 0 ]: 11857.9 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 764 / 50000
+	PCS error DOF[ 0 ]: 28.4848 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 3 / 50000
+	PCS error DOF[ 0 ]: 9.8953e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 31 / 50000
+	PCS error DOF[ 0 ]: 1.54614e-11 
+
+Interface time step: 26 - 2030-07-27 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 380 / 50000
+	PCS error DOF[ 0 ]: 940.713 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 711 / 50000
+	PCS error DOF[ 0 ]: 10.2396 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 1 / 50000
+	PCS error DOF[ 0 ]: 2.91038e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 16 / 50000
+	PCS error DOF[ 0 ]: 1.10276e-11 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 372 / 50000
+	PCS error DOF[ 0 ]: 933.351 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 725 / 50000
+	PCS error DOF[ 0 ]: 10.1828 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 7 / 50000
+	PCS error DOF[ 0 ]: 1.22236e-08 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 47 / 50000
+	PCS error DOF[ 0 ]: 6.969e-11 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 375 / 50000
+	PCS error DOF[ 0 ]: 933.328 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 739 / 50000
+	PCS error DOF[ 0 ]: 10.1826 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 1 / 50000
+	PCS error DOF[ 0 ]: 2.91038e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 17 / 50000
+	PCS error DOF[ 0 ]: 1.27329e-11 
+
+Interface time step: 27 - 2030-07-28 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 385 / 50000
+	PCS error DOF[ 0 ]: 1029.42 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 631 / 50000
+	PCS error DOF[ 0 ]: 6.77068 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 11 / 50000
+	PCS error DOF[ 0 ]: 2.08383e-08 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 46 / 50000
+	PCS error DOF[ 0 ]: 5.71845e-11 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 367 / 50000
+	PCS error DOF[ 0 ]: 1020.57 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 668 / 50000
+	PCS error DOF[ 0 ]: 6.75591 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 18 / 50000
+	PCS error DOF[ 0 ]: 2.35625e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 50 / 50000
+	PCS error DOF[ 0 ]: 2.26464e-10 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 367 / 50000
+	PCS error DOF[ 0 ]: 1020.54 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 648 / 50000
+	PCS error DOF[ 0 ]: 6.75586 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 1 / 50000
+	PCS error DOF[ 0 ]: 2.91038e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 14 / 50000
+	PCS error DOF[ 0 ]: 8.98126e-12 
+
+Interface time step: 28 - 2030-07-29 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 387 / 50000
+	PCS error DOF[ 0 ]: 4486.78 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 18 / 50000
+	PCS error DOF[ 0 ]: 0.148366 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 23 / 50000
+	PCS error DOF[ 0 ]: 2.84985e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 5 / 50000
+	PCS error DOF[ 0 ]: 3.11672e-10 
+
+Interface time step: 29 - 2030-07-30 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 7 / 50000
+	PCS error DOF[ 0 ]: 3.14903e-08 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 19 / 50000
+	PCS error DOF[ 0 ]: 0.145116 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 1 / 50000
+	PCS error DOF[ 0 ]: 5.23869e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 1 / 50000
+	PCS error DOF[ 0 ]: 1.50635e-11 
+
+Interface time step: 30 - 2030-07-31 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 397 / 50000
+	PCS error DOF[ 0 ]: 5417.1 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 748 / 50000
+	PCS error DOF[ 0 ]: 7.35761 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 18 / 50000
+	PCS error DOF[ 0 ]: 2.16649e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 110 / 50000
+	PCS error DOF[ 0 ]: 3.46745e-10 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 413 / 50000
+	PCS error DOF[ 0 ]: 12233.7 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 1018 / 50000
+	PCS error DOF[ 0 ]: 13.6165 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 2 / 50000
+	PCS error DOF[ 0 ]: 2.91038e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 24 / 50000
+	PCS error DOF[ 0 ]: 6.70752e-12 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 394 / 50000
+	PCS error DOF[ 0 ]: 9148.88 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 948 / 50000
+	PCS error DOF[ 0 ]: 11.1225 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 2 / 50000
+	PCS error DOF[ 0 ]: 1.74623e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 22 / 50000
+	PCS error DOF[ 0 ]: 6.08225e-12 
+
+Iteration: 3
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 413 / 50000
+	PCS error DOF[ 0 ]: 10216 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 534 / 50000
+	PCS error DOF[ 0 ]: 12.0387 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 18 / 50000
+	PCS error DOF[ 0 ]: 2.43541e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 98 / 50000
+	PCS error DOF[ 0 ]: 2.33911e-10 
+
+Iteration: 4
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 410 / 50000
+	PCS error DOF[ 0 ]: 9799.47 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 928 / 50000
+	PCS error DOF[ 0 ]: 11.6895 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 1 / 50000
+	PCS error DOF[ 0 ]: 2.91038e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 20 / 50000
+	PCS error DOF[ 0 ]: 8.69704e-12 
+
+Iteration: 5
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 420 / 50000
+	PCS error DOF[ 0 ]: 9955.29 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 911 / 50000
+	PCS error DOF[ 0 ]: 11.8214 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 2.15368e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 78 / 50000
+	PCS error DOF[ 0 ]: 2.63753e-11 
+
+Iteration: 6
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 426 / 50000
+	PCS error DOF[ 0 ]: 9896.03 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 50001 / 50000
+WARNING ExecuteLinearSolver() - Maximum iteration number reached
+	PCS error DOF[ 0 ]: 0 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 13 / 50000
+	PCS error DOF[ 0 ]: 1.07451e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 50001 / 50000
+WARNING ExecuteLinearSolver() - Maximum iteration number reached
+	PCS error DOF[ 0 ]: 0 
+
+Iteration: 7
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 7 / 50000
+	PCS error DOF[ 0 ]: 3.15486e-08 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 19 / 50000
+	PCS error DOF[ 0 ]: 0.142026 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 1 / 50000
+	PCS error DOF[ 0 ]: 5.23869e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 1 / 50000
+	PCS error DOF[ 0 ]: 1.16529e-11 
+
+Interface time step: 31 - 2030-08-01 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 400 / 50000
+	PCS error DOF[ 0 ]: 9896.03 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 890 / 50000
+	PCS error DOF[ 0 ]: 11.691 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 1.92085e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 52 / 50000
+	PCS error DOF[ 0 ]: 1.09139e-11 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 415 / 50000
+	PCS error DOF[ 0 ]: 9891.63 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 917 / 50000
+	PCS error DOF[ 0 ]: 11.6873 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 18 / 50000
+	PCS error DOF[ 0 ]: 3.2573e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 106 / 50000
+	PCS error DOF[ 0 ]: 2.15834e-10 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 411 / 50000
+	PCS error DOF[ 0 ]: 9893.28 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 628 / 50000
+	PCS error DOF[ 0 ]: 11.6887 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 18 / 50000
+	PCS error DOF[ 0 ]: 2.72456e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 107 / 50000
+	PCS error DOF[ 0 ]: 2.28908e-10 
+
+Interface time step: 32 - 2030-08-02 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 312 / 50000
+	PCS error DOF[ 0 ]: 0.622896 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 866 / 50000
+	PCS error DOF[ 0 ]: 9.41231 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 2 / 50000
+	PCS error DOF[ 0 ]: 2.91038e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 19 / 50000
+	PCS error DOF[ 0 ]: 5.22959e-12 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 398 / 50000
+	PCS error DOF[ 0 ]: 2714.43 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 50001 / 50000
+WARNING ExecuteLinearSolver() - Maximum iteration number reached
+	PCS error DOF[ 0 ]: 0 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 6 / 50000
+	PCS error DOF[ 0 ]: 5.00586e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 50001 / 50000
+WARNING ExecuteLinearSolver() - Maximum iteration number reached
+	PCS error DOF[ 0 ]: 0 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 399 / 50000
+	PCS error DOF[ 0 ]: 9893.28 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 19 / 50000
+	PCS error DOF[ 0 ]: 0.0935386 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 14 / 50000
+	PCS error DOF[ 0 ]: 1.17347e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 8 / 50000
+	PCS error DOF[ 0 ]: 5.67497e-08 
+
+Interface time step: 33 - 2030-08-03 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 399 / 50000
+	PCS error DOF[ 0 ]: 7178.85 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 802 / 50000
+	PCS error DOF[ 0 ]: 7.33356 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 18 / 50000
+	PCS error DOF[ 0 ]: 3.00119e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 117 / 50000
+	PCS error DOF[ 0 ]: 2.10434e-10 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 406 / 50000
+	PCS error DOF[ 0 ]: 7631.21 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 902 / 50000
+	PCS error DOF[ 0 ]: 7.7004 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 1 / 50000
+	PCS error DOF[ 0 ]: 4.07454e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 18 / 50000
+	PCS error DOF[ 0 ]: 8.52651e-12 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 410 / 50000
+	PCS error DOF[ 0 ]: 7543.56 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 50001 / 50000
+WARNING ExecuteLinearSolver() - Maximum iteration number reached
+	PCS error DOF[ 0 ]: 0 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 2.03727e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 50001 / 50000
+WARNING ExecuteLinearSolver() - Maximum iteration number reached
+	PCS error DOF[ 0 ]: 0 
+
+Iteration: 3
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 11 / 50000
+	PCS error DOF[ 0 ]: 6.78701e-08 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 20 / 50000
+	PCS error DOF[ 0 ]: 0.0925224 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 3 / 50000
+	PCS error DOF[ 0 ]: 1.92085e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 1 / 50000
+	PCS error DOF[ 0 ]: 2.58638e-11 
+
+Interface time step: 34 - 2030-08-04 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 411 / 50000
+	PCS error DOF[ 0 ]: 7543.56 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 876 / 50000
+	PCS error DOF[ 0 ]: 7.61337 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 13 / 50000
+	PCS error DOF[ 0 ]: 9.00181e-08 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 74 / 50000
+	PCS error DOF[ 0 ]: 4.09273e-11 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 410 / 50000
+	PCS error DOF[ 0 ]: 7546.71 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 871 / 50000
+	PCS error DOF[ 0 ]: 7.61591 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 2 / 50000
+	PCS error DOF[ 0 ]: 2.32831e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 20 / 50000
+	PCS error DOF[ 0 ]: 1.06297e-11 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 414 / 50000
+	PCS error DOF[ 0 ]: 7546.12 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 850 / 50000
+	PCS error DOF[ 0 ]: 7.61543 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 2 / 50000
+	PCS error DOF[ 0 ]: 2.32831e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 18 / 50000
+	PCS error DOF[ 0 ]: 7.7307e-12 
+
+Interface time step: 35 - 2030-08-05 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 411 / 50000
+	PCS error DOF[ 0 ]: 18541.6 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 950 / 50000
+	PCS error DOF[ 0 ]: 12.1057 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 1 / 50000
+	PCS error DOF[ 0 ]: 2.91038e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 21 / 50000
+	PCS error DOF[ 0 ]: 8.18545e-12 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 432 / 50000
+	PCS error DOF[ 0 ]: 18614.4 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 1026 / 50000
+	PCS error DOF[ 0 ]: 11.6759 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 2.09548e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 80 / 50000
+	PCS error DOF[ 0 ]: 2.08047e-11 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 424 / 50000
+	PCS error DOF[ 0 ]: 18616.7 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 1117 / 50000
+	PCS error DOF[ 0 ]: 11.6623 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 1.86265e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 54 / 50000
+	PCS error DOF[ 0 ]: 2.02363e-11 
+
+Interface time step: 36 - 2030-08-06 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 298 / 50000
+	PCS error DOF[ 0 ]: 0.0739575 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 941 / 50000
+	PCS error DOF[ 0 ]: 8.00552 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 5 / 50000
+	PCS error DOF[ 0 ]: 2.50293e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 60 / 50000
+	PCS error DOF[ 0 ]: 2.51248e-11 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 361 / 50000
+	PCS error DOF[ 0 ]: 363.785 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 913 / 50000
+	PCS error DOF[ 0 ]: 7.79739 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 2 / 50000
+	PCS error DOF[ 0 ]: 2.91038e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 20 / 50000
+	PCS error DOF[ 0 ]: 5.17275e-12 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 364 / 50000
+	PCS error DOF[ 0 ]: 382.641 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 949 / 50000
+	PCS error DOF[ 0 ]: 7.78929 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 18 / 50000
+	PCS error DOF[ 0 ]: 2.858e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 107 / 50000
+	PCS error DOF[ 0 ]: 7.9126e-11 
+
+Interface time step: 37 - 2030-08-07 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 324 / 50000
+	PCS error DOF[ 0 ]: 0.987395 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 903 / 50000
+	PCS error DOF[ 0 ]: 7.23829 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 18 / 50000
+	PCS error DOF[ 0 ]: 2.80212e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 119 / 50000
+	PCS error DOF[ 0 ]: 1.12436e-10 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 357 / 50000
+	PCS error DOF[ 0 ]: 620.613 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 993 / 50000
+	PCS error DOF[ 0 ]: 7.59185 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 1 / 50000
+	PCS error DOF[ 0 ]: 2.32831e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 22 / 50000
+	PCS error DOF[ 0 ]: 3.97904e-12 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 368 / 50000
+	PCS error DOF[ 0 ]: 664.37 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 972 / 50000
+	PCS error DOF[ 0 ]: 7.6166 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 2 / 50000
+	PCS error DOF[ 0 ]: 2.91038e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 19 / 50000
+	PCS error DOF[ 0 ]: 4.60432e-12 
+
+Iteration: 3
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 407 / 50000
+	PCS error DOF[ 0 ]: 667.485 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 979 / 50000
+	PCS error DOF[ 0 ]: 7.61836 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 1.97906e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 67 / 50000
+	PCS error DOF[ 0 ]: 1.4893e-11 
+
+Interface time step: 38 - 2030-08-08 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 289 / 50000
+	PCS error DOF[ 0 ]: 0.221876 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 979 / 50000
+	PCS error DOF[ 0 ]: 7.1918 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 17 / 50000
+	PCS error DOF[ 0 ]: 1.61352e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 121 / 50000
+	PCS error DOF[ 0 ]: 1.05445e-10 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 443 / 50000
+	PCS error DOF[ 0 ]: 919.22 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 943 / 50000
+	PCS error DOF[ 0 ]: 7.68293 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 1 / 50000
+	PCS error DOF[ 0 ]: 4.65661e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 19 / 50000
+	PCS error DOF[ 0 ]: 3.58114e-12 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 390 / 50000
+	PCS error DOF[ 0 ]: 998.599 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 1066 / 50000
+	PCS error DOF[ 0 ]: 7.72483 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 1.97906e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 60 / 50000
+	PCS error DOF[ 0 ]: 1.28466e-11 
+
+Iteration: 3
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 387 / 50000
+	PCS error DOF[ 0 ]: 1005.44 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 1088 / 50000
+	PCS error DOF[ 0 ]: 7.72844 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 5 / 50000
+	PCS error DOF[ 0 ]: 5.47152e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 85 / 50000
+	PCS error DOF[ 0 ]: 1.89289e-11 
+
+Interface time step: 39 - 2030-08-09 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 280 / 50000
+	PCS error DOF[ 0 ]: 0.589569 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 965 / 50000
+	PCS error DOF[ 0 ]: 7.28929 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 15 / 50000
+	PCS error DOF[ 0 ]: 1.34227e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 90 / 50000
+	PCS error DOF[ 0 ]: 4.08704e-11 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 405 / 50000
+	PCS error DOF[ 0 ]: 1248.08 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 974 / 50000
+	PCS error DOF[ 0 ]: 7.90634 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 3 / 50000
+	PCS error DOF[ 0 ]: 1.62981e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 33 / 50000
+	PCS error DOF[ 0 ]: 3.69482e-12 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 368 / 50000
+	PCS error DOF[ 0 ]: 1373.28 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 950 / 50000
+	PCS error DOF[ 0 ]: 7.96735 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 16 / 50000
+	PCS error DOF[ 0 ]: 1.67114e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 101 / 50000
+	PCS error DOF[ 0 ]: 7.12248e-11 
+
+Iteration: 3
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 410 / 50000
+	PCS error DOF[ 0 ]: 1385.82 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 1003 / 50000
+	PCS error DOF[ 0 ]: 7.97345 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 18 / 50000
+	PCS error DOF[ 0 ]: 3.34971e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 131 / 50000
+	PCS error DOF[ 0 ]: 8.28209e-11 
+
+Interface time step: 40 - 2030-08-10 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 425 / 50000
+	PCS error DOF[ 0 ]: 22058.2 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 1199 / 50000
+	PCS error DOF[ 0 ]: 23.5153 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 3 / 50000
+	PCS error DOF[ 0 ]: 1.04774e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 30 / 50000
+	PCS error DOF[ 0 ]: 9.15179e-12 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 423 / 50000
+	PCS error DOF[ 0 ]: 21470.4 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 958 / 50000
+	PCS error DOF[ 0 ]: 23.5153 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 5 / 50000
+	PCS error DOF[ 0 ]: 2.32831e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 46 / 50000
+	PCS error DOF[ 0 ]: 2.98996e-11 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 420 / 50000
+	PCS error DOF[ 0 ]: 21436.4 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 633 / 50000
+	PCS error DOF[ 0 ]: 23.5153 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 17 / 50000
+	PCS error DOF[ 0 ]: 3.04368e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 106 / 50000
+	PCS error DOF[ 0 ]: 3.92049e-10 
+
+Iteration: 3
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 419 / 50000
+	PCS error DOF[ 0 ]: 21434.4 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 716 / 50000
+	PCS error DOF[ 0 ]: 23.5153 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 17 / 50000
+	PCS error DOF[ 0 ]: 2.39306e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 104 / 50000
+	PCS error DOF[ 0 ]: 4.64695e-10 
+
+Interface time step: 41 - 2030-08-11 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 289 / 50000
+	PCS error DOF[ 0 ]: 0.119836 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 605 / 50000
+	PCS error DOF[ 0 ]: 9.6689 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 3 / 50000
+	PCS error DOF[ 0 ]: 1.57161e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 24 / 50000
+	PCS error DOF[ 0 ]: 9.9476e-12 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 384 / 50000
+	PCS error DOF[ 0 ]: 440.262 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 831 / 50000
+	PCS error DOF[ 0 ]: 10.0274 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 2.96859e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 41 / 50000
+	PCS error DOF[ 0 ]: 2.23963e-11 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 385 / 50000
+	PCS error DOF[ 0 ]: 459.388 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 831 / 50000
+	PCS error DOF[ 0 ]: 10.0425 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 5 / 50000
+	PCS error DOF[ 0 ]: 3.20142e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 37 / 50000
+	PCS error DOF[ 0 ]: 2.46132e-11 
+
+Interface time step: 42 - 2030-08-12 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 319 / 50000
+	PCS error DOF[ 0 ]: 0.80262 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 909 / 50000
+	PCS error DOF[ 0 ]: 7.89349 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 2.50293e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 30 / 50000
+	PCS error DOF[ 0 ]: 2.05773e-11 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 357 / 50000
+	PCS error DOF[ 0 ]: 324.965 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 949 / 50000
+	PCS error DOF[ 0 ]: 8.13886 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 24 / 50000
+	PCS error DOF[ 0 ]: 2.48008e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 63 / 50000
+	PCS error DOF[ 0 ]: 1.12323e-10 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 363 / 50000
+	PCS error DOF[ 0 ]: 330.313 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 862 / 50000
+	PCS error DOF[ 0 ]: 8.14283 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 2 / 50000
+	PCS error DOF[ 0 ]: 2.32831e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 16 / 50000
+	PCS error DOF[ 0 ]: 6.19593e-12 
+
+Interface time step: 43 - 2030-08-13 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 289 / 50000
+	PCS error DOF[ 0 ]: 0.0822387 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 372 / 50000
+	PCS error DOF[ 0 ]: 7.08634 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 19 / 50000
+	PCS error DOF[ 0 ]: 3.66839e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 68 / 50000
+	PCS error DOF[ 0 ]: 1.31593e-10 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 347 / 50000
+	PCS error DOF[ 0 ]: 119.571 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 868 / 50000
+	PCS error DOF[ 0 ]: 7.17657 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 3.66708e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 30 / 50000
+	PCS error DOF[ 0 ]: 2.48406e-11 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 363 / 50000
+	PCS error DOF[ 0 ]: 118.129 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 869 / 50000
+	PCS error DOF[ 0 ]: 7.17548 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 5 / 50000
+	PCS error DOF[ 0 ]: 3.49246e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 33 / 50000
+	PCS error DOF[ 0 ]: 2.84786e-11 
+
+Interface time step: 44 - 2030-08-14 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 394 / 50000
+	PCS error DOF[ 0 ]: 1056.59 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 939 / 50000
+	PCS error DOF[ 0 ]: 5.76379 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 9 / 50000
+	PCS error DOF[ 0 ]: 1.94414e-08 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 45 / 50000
+	PCS error DOF[ 0 ]: 6.66773e-11 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 388 / 50000
+	PCS error DOF[ 0 ]: 1104.79 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 699 / 50000
+	PCS error DOF[ 0 ]: 5.72686 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 15 / 50000
+	PCS error DOF[ 0 ]: 1.6368e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 76 / 50000
+	PCS error DOF[ 0 ]: 7.67955e-11 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 391 / 50000
+	PCS error DOF[ 0 ]: 1103.72 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 429 / 50000
+	PCS error DOF[ 0 ]: 5.72768 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 2.15368e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 34 / 50000
+	PCS error DOF[ 0 ]: 3.02975e-11 
+
+Interface time step: 45 - 2030-08-15 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 410 / 50000
+	PCS error DOF[ 0 ]: 16120.6 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 1198 / 50000
+	PCS error DOF[ 0 ]: 9.49314 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 14 / 50000
+	PCS error DOF[ 0 ]: 1.20548e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 73 / 50000
+	PCS error DOF[ 0 ]: 3.17755e-11 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 430 / 50000
+	PCS error DOF[ 0 ]: 14540.6 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 987 / 50000
+	PCS error DOF[ 0 ]: 8.60277 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 1.92085e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 61 / 50000
+	PCS error DOF[ 0 ]: 3.67777e-11 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 420 / 50000
+	PCS error DOF[ 0 ]: 14475.5 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 928 / 50000
+	PCS error DOF[ 0 ]: 9.22102 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 17 / 50000
+	PCS error DOF[ 0 ]: 2.59024e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 90 / 50000
+	PCS error DOF[ 0 ]: 6.53131e-11 
+
+Iteration: 3
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 421 / 50000
+	PCS error DOF[ 0 ]: 14472.9 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 1509 / 50000
+	PCS error DOF[ 0 ]: 9.24554 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 15 / 50000
+	PCS error DOF[ 0 ]: 1.07684e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 75 / 50000
+	PCS error DOF[ 0 ]: 5.17275e-11 
+
+Interface time step: 46 - 2030-08-16 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 317 / 50000
+	PCS error DOF[ 0 ]: 0.101575 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 795 / 50000
+	PCS error DOF[ 0 ]: 6.12979 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 1.92085e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 58 / 50000
+	PCS error DOF[ 0 ]: 2.50679e-11 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 404 / 50000
+	PCS error DOF[ 0 ]: 303.84 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 896 / 50000
+	PCS error DOF[ 0 ]: 6.35317 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 14 / 50000
+	PCS error DOF[ 0 ]: 1.45927e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 81 / 50000
+	PCS error DOF[ 0 ]: 3.81419e-11 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 389 / 50000
+	PCS error DOF[ 0 ]: 315.182 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 859 / 50000
+	PCS error DOF[ 0 ]: 6.36147 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 1 / 50000
+	PCS error DOF[ 0 ]: 3.49246e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 19 / 50000
+	PCS error DOF[ 0 ]: 6.30962e-12 
+
+Interface time step: 47 - 2030-08-17 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 292 / 50000
+	PCS error DOF[ 0 ]: 0.425402 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 775 / 50000
+	PCS error DOF[ 0 ]: 6.079 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 16 / 50000
+	PCS error DOF[ 0 ]: 1.35304e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 95 / 50000
+	PCS error DOF[ 0 ]: 1.31308e-10 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 379 / 50000
+	PCS error DOF[ 0 ]: 310.041 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 912 / 50000
+	PCS error DOF[ 0 ]: 6.29469 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 2 / 50000
+	PCS error DOF[ 0 ]: 1.74623e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 18 / 50000
+	PCS error DOF[ 0 ]: 4.3201e-12 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 389 / 50000
+	PCS error DOF[ 0 ]: 323.361 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 890 / 50000
+	PCS error DOF[ 0 ]: 6.30399 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 2.61934e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 70 / 50000
+	PCS error DOF[ 0 ]: 1.87583e-11 
+
+Interface time step: 48 - 2030-08-18 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 316 / 50000
+	PCS error DOF[ 0 ]: 0.573879 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 823 / 50000
+	PCS error DOF[ 0 ]: 6.0367 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 18 / 50000
+	PCS error DOF[ 0 ]: 3.46859e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 113 / 50000
+	PCS error DOF[ 0 ]: 2.05944e-10 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 364 / 50000
+	PCS error DOF[ 0 ]: 364.044 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 928 / 50000
+	PCS error DOF[ 0 ]: 6.27756 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 13 / 50000
+	PCS error DOF[ 0 ]: 1.29687e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 70 / 50000
+	PCS error DOF[ 0 ]: 5.28644e-11 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 374 / 50000
+	PCS error DOF[ 0 ]: 379.974 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 950 / 50000
+	PCS error DOF[ 0 ]: 6.28807 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 1 / 50000
+	PCS error DOF[ 0 ]: 3.7835e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 19 / 50000
+	PCS error DOF[ 0 ]: 5.00222e-12 
+
+Iteration: 3
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 368 / 50000
+	PCS error DOF[ 0 ]: 380.671 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 876 / 50000
+	PCS error DOF[ 0 ]: 6.28853 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 2 / 50000
+	PCS error DOF[ 0 ]: 2.32831e-10 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 19 / 50000
+	PCS error DOF[ 0 ]: 3.35376e-12 
+
+Interface time step: 49 - 2030-08-19 23:00:00
+Iteration: 0
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 298 / 50000
+	PCS error DOF[ 0 ]: 0.0305185 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 837 / 50000
+	PCS error DOF[ 0 ]: 6.03086 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 18 / 50000
+	PCS error DOF[ 0 ]: 3.63565e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 106 / 50000
+	PCS error DOF[ 0 ]: 1.91733e-10 
+
+Iteration: 1
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 367 / 50000
+	PCS error DOF[ 0 ]: 394.282 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 938 / 50000
+	PCS error DOF[ 0 ]: 6.28135 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 18 / 50000
+	PCS error DOF[ 0 ]: 3.29106e-07 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 124 / 50000
+	PCS error DOF[ 0 ]: 1.65642e-10 
+
+Iteration: 2
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 396 / 50000
+	PCS error DOF[ 0 ]: 411.167 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 936 / 50000
+	PCS error DOF[ 0 ]: 6.29203 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 1.97906e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 59 / 50000
+	PCS error DOF[ 0 ]: 9.66338e-12 
+
+Iteration: 3
+Time step: 1 - Time: 86400 - Step size 86400
+Coupling loop: 0 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 376 / 50000
+	PCS error DOF[ 0 ]: 411.888 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 902 / 50000
+	PCS error DOF[ 0 ]: 6.29248 
+
+Coupling loop: 1 / 100
+	Process: LIQUID_FLOW
+	Iter: 0 / 1
+	Solver: 4 / 50000
+	PCS error DOF[ 0 ]: 1.92085e-09 
+
+	Process: HEAT_TRANSPORT
+	Iter: 0 / 1
+	Solver: 54 / 50000
+	PCS error DOF[ 0 ]: 1.18234e-11 
+

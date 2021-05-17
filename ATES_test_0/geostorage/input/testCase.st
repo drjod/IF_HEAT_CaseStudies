@@ -1,0 +1,105 @@
+
+#SOURCE_TERM
+ $PCS_TYPE
+  LIQUID_FLOW
+ $PRIMARY_VARIABLE
+  PRESSURE1
+ $GEO_TYPE
+  POLYLINE WARM_0
+ $DIS_TYPE
+  CONSTANT_NEUMANN 0
+ $IGNORE_AXISYMMETRY
+
+#SOURCE_TERM
+ $PCS_TYPE
+  LIQUID_FLOW
+ $PRIMARY_VARIABLE
+  PRESSURE1
+ $GEO_TYPE
+  POLYLINE COLD_0
+ $DIS_TYPE
+  CONSTANT_NEUMANN 0
+ $IGNORE_AXISYMMETRY
+
+;#SOURCE_TERM
+; $PCS_TYPE
+;  LIQUID_FLOW
+; $PRIMARY_VARIABLE 
+;  PRESSURE1
+; $GEO_TYPE
+;  POLYLINE WARM_BC
+; $DIS_TYPE
+;  CONSTANT_NEUMANN      1.0
+; $CONNECTED_GEOMETRY
+;  POLYLINE COLD_BC
+; $CONNECT_PARAMETERS 
+;  1e3 0  ; exchange coefficient   verbosity level = 0, 1
+; $CONNECT_MODE
+;  0 ; mode  ; 0: symmetric, 1: non-symmetric (downwind fixed), 2 non-symmetric (downwind)
+;  ;  2  ref_element_number   n_ref_x, n_ref_y, n_ref_z minimum_velocity_abs 
+
+
+#SOURCE_TERM
+ $PCS_TYPE
+  HEAT_TRANSPORT
+ $PRIMARY_VARIABLE 
+  TEMPERATURE1
+ $GEO_TYPE
+  POLYLINE COLD_BC
+ $DIS_TYPE
+  CONSTANT_NEUMANN      1.0
+ $CONNECTED_GEOMETRY
+  POLYLINE WARM_BC
+ $CONNECT_PARAMETERS 
+  1e6 0  ; exchange coefficient   verbosity level = 0, 1
+ $CONNECT_MODE
+ 2 2319 -1 0 0
+  1 ; mode  ; 0: symmetric, 1: non-symmetric (downwind fixed), 2 non-symmetric (downwind)
+  ;  2  ref_element_number   n_ref_x, n_ref_y, n_ref_z minimum_velocity_abs 
+ $EVERYONE_WITH_EVERYONE
+
+#STOP
+
+
+#SOURCE_TERM
+ $PCS_TYPE
+  HEAT_TRANSPORT
+ $PRIMARY_VARIABLE
+  TEMPERATURE1
+ $GEO_TYPE
+  POLYLINE WELL_WARM
+ $DIS_TYPE_CONDITION
+  CONSTANT_NEUMANN 0
+  PCS LIQUID_FLOW
+ PRESSURE1
+  0. 0. 0. 0.
+ $IGNORE_AXISYMMETRY
+
+
+#STOP
+
+#SOURCE_TERM
+ $PCS_TYPE
+  HEAT_TRANSPORT
+ $PRIMARY_VARIABLE
+  TEMPERATURE1
+ $GEO_TYPE
+  POLYLINE WELL_WARM
+ $DIS_TYPE_CONDITION
+  CONSTANT_NEUMANN  1.e-3
+ PCS LIQUID_FLOW
+ PRESSURE1
+ 0 0 0 0
+; $IG NORE_AXISYMMETRY
+
+#STOP
+
+ $WELL_DOUBLET_PARAMETER
+  HP 0 ; no heat pump
+  3 1 0.1 1e3 1e-5 ; number_of_entries well_shutdown_temperature_range accuracy_temperature accuracy_powerrate accuracy_flowrate
+ 1e6	0  	1.e6	1e-2 	70  ; time mode power_target target extremum
+ 2e6 	0	5.e6 	1e-2   	70
+ 1e20 	0  	-1.e6  	-1e-2 	20
+ $IGNORE_AXISYMMETRY
+
+#STOP
